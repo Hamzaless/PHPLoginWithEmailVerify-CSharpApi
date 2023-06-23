@@ -20,8 +20,6 @@ public static bool Login(string Username,string Password)
 
                 var postData = "username=" + Uri.EscapeDataString(nm);
                 postData += "&password=" + Uri.EscapeDataString(pw);
-               
-                postData += "&token=" + Uri.EscapeDataString(token);
                 var data = Encoding.ASCII.GetBytes(postData);
 
                 request.Method = "POST";
