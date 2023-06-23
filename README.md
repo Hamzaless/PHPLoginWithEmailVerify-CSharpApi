@@ -1,4 +1,4 @@
-# MrHamzaless Login nasıl kullanılır.
+# PHP Login nasıl kullanılır.
 ## Aşağıdaki adımlar yaklaşık 5 Dakika sürüyor kolay gelsin!
 
 
