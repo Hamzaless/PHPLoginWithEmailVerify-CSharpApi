@@ -2,9 +2,9 @@
 ## Aşağıdaki adımlar yaklaşık 5 Dakika sürüyor kolay gelsin!
 
 
-**Öncelikle** => Kolay database kurulumundan **mysql tablenize (db.sql)** dosyasını aktarın
-**Sonra** => veritabanı.php dosyasına **doğru bilgileri** giriniz
-**Ve** => mail-ayarları.php **smtp bilgileriniz** ile doldurunuz.. (Küçük bir öneri: Yandex Mail kullanın...)
+> **Öncelikle** => Kolay database kurulumundan **mysql tablenize (db.sql)** dosyasını aktarın
+> **Sonra** => veritabanı.php dosyasına **doğru bilgileri** giriniz
+> **Ve** => mail-ayarları.php **smtp bilgileriniz** ile doldurunuz.. (Küçük bir öneri: Yandex Mail kullanın...)
 
 ## Siteniz hazır durumda! Şimdi C#'a entegre edelim!
 
