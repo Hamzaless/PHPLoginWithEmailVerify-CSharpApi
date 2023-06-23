@@ -1,5 +1,6 @@
 # PHP Login nasıl kullanılır.
 ## Aşağıdaki adımlar yaklaşık 5 Dakika sürüyor kolay gelsin!
+### Destek ve yardım için discord hesabım: mrhamzaless
 
 
 > **Öncelikle** => Kolay database kurulumundan **mysql tablenize (db.sql)** dosyasını aktarın. 
