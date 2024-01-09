@@ -58,7 +58,7 @@ if (Login(nametextbox.Text, passwordtextbox.Text))
 }
 else
 {
-    MessageBox.Show("Kullanıcı adı veya şifre yanlış", "BeyClient", MessageBoxButtons.OK,MessageBoxIcon.Error);
+    MessageBox.Show("Kullanıcı adı veya şifre yanlış", "MrHamzaless", MessageBoxButtons.OK,MessageBoxIcon.Error);
 }
 ```
 
