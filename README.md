@@ -45,7 +45,7 @@ public static bool Login(string Username,string Password)
 ### Peki bu kodu login sayfamda nasıl kullanacağım? Bu diğerlerinden daha kolay..
 
 ```
-if (Login(nametextbox.Text, passwordtextbox.Text) == true)
+if (Login(nametextbox.Text, passwordtextbox.Text))
 {
    // Şifre ve Kullanıcı adı doğru geldiğinde olacak işlemler
 }
