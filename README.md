@@ -23,7 +23,7 @@ public static bool Login(string Username,string Password)
 
                 string nm = Username;
                 string pw = Password;
-                var request = (HttpWebRequest)WebRequest.Create("apinize giden yol mesela: localhost/api/login/");
+                var request = (HttpWebRequest)WebRequest.Create("apinize giden yol mesela: https://mrhamzaless.com/phplogin/api/login");
 
                 var postData = "username=" + Uri.EscapeDataString(nm);
                 postData += "&password=" + Uri.EscapeDataString(pw);
