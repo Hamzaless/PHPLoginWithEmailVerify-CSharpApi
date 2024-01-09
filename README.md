@@ -1,11 +1,10 @@
 # PHP Login nasıl kullanılır.
 ## Aşağıdaki adımlar yaklaşık 5 Dakika sürüyor kolay gelsin!
-### Destek ve yardım için discord hesabım: mrhamzaless
+### https://mrhamzaless.com
 
-
-> **Öncelikle** => Kolay database kurulumundan **mysql tablenize (db.sql)** dosyasını aktarın. 
-> **Sonra** => veritabanı.php dosyasına **doğru bilgileri** giriniz, ve çalıştığından emin olunuz. 
-> **Son olarak** => mail-ayarları.php **smtp bilgileriniz** ile doldurunuz.. (Küçük bir öneri: Yandex Mail kullanın...)
+> **Öncelikle** => Kolay database kurulumundan **mysql tablenize (db.sql)** dosyasını aktarın.<br>
+> **Sonra** => veritabanı.php dosyasına **doğru bilgileri** giriniz, ve çalıştığından emin olunuz.<br> 
+> **Son olarak** => mail-ayarları.php **smtp bilgileriniz** ile doldurunuz.. (Küçük bir öneri: Yandex Mail kullanın...)<br>
 
 ## Siteniz hazır durumda! Şimdi C#'a entegre edelim!
 
