@@ -55,9 +55,4 @@ else
 }
 ```
 
-
-# Bu Proje MIT Lisansı altında paylaşılmıştır;
-## Kendiniz yapmışsınız gibi pazarlanamaz.
-### Credit vermeden paylaşılamaz
-
 Teşekkürler :)
