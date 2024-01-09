@@ -2,6 +2,14 @@
 ## Aşağıdaki adımlar yaklaşık 5 Dakika sürüyor kolay gelsin!
 ### https://mrhamzaless.com
 
+# Yükleme:
+> Git indirin<br>
+> ve **cmd** (konsol)'a şu kodu yazın<br>
+> ```git clone https://github.com/Hamzaless/PHPLoginWithEmailVerify-CSharpApi.git```<br>
+> ```cd PHPLoginWithEmailVerify-CSharpApi```<br>
+
+# Kurulum
+
 > **Öncelikle** => Kolay database kurulumundan **mysql tablenize (db.sql)** dosyasını aktarın.<br>
 > **Sonra** => veritabanı.php dosyasına **doğru bilgileri** giriniz, ve çalıştığından emin olunuz.<br> 
 > **Son olarak** => mail-ayarları.php **smtp bilgileriniz** ile doldurunuz.. bknz (https://mehmet.net/smtp-nedir-nasil-kurulur/)<br>
